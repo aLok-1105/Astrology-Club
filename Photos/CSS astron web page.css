@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    padding: 50px;
+    text-align: center;
+    color: rgb(255, 234, 0);
+    background-color: rgb(47, 47, 50)
+}
+
+header h1{
+    font-size: 30px;
+
+}
+nav{
+    margin: 0px;
+    background-color: #333;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.container{
+    margin: 0px;
+}
+
+nav a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding :14px 20px;
+    float: left;
+}
+
+#container{
+    margin: 0px;
+}
